@@ -1,0 +1,26 @@
+.container{
+display: flex;
+justify-content: space-between;
+background-color: gray;
+align-items: center;
+padding: 0 40px;
+}
+
+.logo{
+    width: 50px;
+    border-radius: 50%;
+    padding: 5px;
+}
+.list{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+.list li {
+    padding: 0 10px;
+    cursor: pointer;
+}
+.list li:hover{
+    color:rgb(118, 115, 115);
+}
