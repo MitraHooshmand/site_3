@@ -1,0 +1,20 @@
+
+.container {
+    text-align: center;
+    margin: 50px 300px  ;
+}
+.container h3 {
+    font-weight: lighter;
+    margin-bottom: 0;
+}
+
+
+.imgPlaceholder{
+    display: flex;
+    justify-content: space-around;
+    align-items:center ;
+}
+.imgPlaceholder img{
+    width: 100px;
+    padding: 30px 4px;
+}

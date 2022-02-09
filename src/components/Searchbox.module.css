@@ -1,0 +1,22 @@
+.container{
+    background-color: #019A9A;
+    /* height: 150px; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 70px 180px;
+}
+.container p {
+    font-size: 40px;
+    font-weight: bold;
+    opacity: 0.8;
+}
+.container input{
+    border: none;
+    border-radius: 6px;
+    padding: 10px;
+    box-shadow: 3px 3px 14px gray;
+    width: 300px ;
+    height: 50px;
+}
+
